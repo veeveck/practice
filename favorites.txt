@@ -1,4 +1,13 @@
+Favorite Food
+
 burger 
 pizza 
 chicken
 pasta
+
+Favorite Movies
+
+shawshank
+transformer
+avengers
+got
